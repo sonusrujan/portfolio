@@ -54,7 +54,7 @@ const HeroSection = () => {
           {personalInfo.tagline}
         </p>
         <Button asChild size="lg" className="bg-primary/90 hover:bg-primary text-primary-foreground">
-            <a href="/resume.pdf" download="Narra_Srujan_Resume.pdf">
+            <a href="/portfolio/resume.pdf" download="Narra_Srujan_Resume.pdf">
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
             </a>

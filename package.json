@@ -1,8 +1,8 @@
 {
-  "name": "nextn",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sonusrujan.github.io/nextn",
+  "homepage": "https://sonusrujan.github.io/portfolio",
   "scripts": {
     "dev": "next dev --turbopack -p 9002",
     "genkit:dev": "genkit start -- tsx src/ai/dev.ts",

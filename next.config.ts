@@ -34,8 +34,8 @@ const nextConfig: NextConfig = {
   },
   
   /* Deployment Path Settings */
-  // Replace 'nextn' with your exact repository name if it's different
-  basePath: '/nextn', 
+  // Replace 'portfolio' with your exact repository name if it's different
+  basePath: '/portfolio', 
   
   /* Your Existing Options */
   typescript: {

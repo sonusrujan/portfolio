@@ -33,7 +33,7 @@ const ExperienceSection = () => {
                           {job.company === "Airbus India Private Limited" && (
                             <div className="flex justify-end mb-4">
                               <Image
-                                src="/nextn/logo_black.webp"
+                                src="/portfolio/logo_black.webp"
                                 alt="Airbus Logo"
                                 width={120}
                                 height={40}
@@ -45,7 +45,7 @@ const ExperienceSection = () => {
                           {job.company === "Global Software Solutions Pvt Ltd." && (
                             <div className="flex justify-end mb-4">
                               <Image
-                                src="/nextn/global.webp"
+                                src="/portfolio/global.webp"
                                 alt="Global Software Solutions Logo"
                                 width={120}
                                 height={40}
@@ -57,7 +57,7 @@ const ExperienceSection = () => {
                           {job.company === "G3 Technologies" && (
                             <div className="flex justify-end mb-4">
                               <Image
-                                src="/nextn/g3.webp"
+                                src="/portfolio/g3.webp"
                                 alt="G3 Technologies Logo"
                                 width={120}
                                 height={40}
@@ -87,7 +87,7 @@ const ExperienceSection = () => {
                           {job.company === "Airbus India Private Limited" && (
                             <div className="flex justify-start mb-4">
                               <Image
-                                src="/nextn/logo_black.webp"
+                                src="/portfolio/logo_black.webp"
                                 alt="Airbus Logo"
                                 width={120}
                                 height={40}
@@ -99,7 +99,7 @@ const ExperienceSection = () => {
                           {job.company === "Global Software Solutions Pvt Ltd." && (
                             <div className="flex justify-start mb-4">
                               <Image
-                                src="/nextn/global.webp"
+                                src="/portfolio/global.webp"
                                 alt="Global Software Solutions Logo"
                                 width={120}
                                 height={40}
@@ -111,7 +111,7 @@ const ExperienceSection = () => {
                           {job.company === "G3 Technologies" && (
                             <div className="flex justify-start mb-4">
                               <Image
-                                src="/nextn/g3.webp"
+                                src="/portfolio/g3.webp"
                                 alt="G3 Technologies Logo"
                                 width={120}
                                 height={40}
@@ -138,7 +138,7 @@ const ExperienceSection = () => {
                            {job.company === "Airbus India Private Limited" && (
                             <div className="mb-4">
                               <Image
-                                src="/nextn/logo_black.webp"
+                                src="/portfolio/logo_black.webp"
                                 alt="Airbus Logo"
                                 width={120}
                                 height={40}
@@ -150,7 +150,7 @@ const ExperienceSection = () => {
                           {job.company === "Global Software Solutions Pvt Ltd." && (
                             <div className="mb-4">
                               <Image
-                                src="/nextn/global.webp"
+                                src="/portfolio/global.webp"
                                 alt="Global Software Solutions Logo"
                                 width={120}
                                 height={40}
@@ -162,7 +162,7 @@ const ExperienceSection = () => {
                           {job.company === "G3 Technologies" && (
                             <div className="mb-4">
                               <Image
-                                src="/nextn/g3.webp"
+                                src="/portfolio/g3.webp"
                                 alt="G3 Technologies Logo"
                                 width={120}
                                 height={40}
