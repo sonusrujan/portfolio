@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "Abstract visualization of camera calibration process",
+      "imageUrl": "https://images.unsplash.com/photo-1650473395434-8674d953ef2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhYnN0cmFjdCUyMHRlY2h8ZW58MHx8fHwxNzcwNjM3MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract tech"
+    },
+    {
+      "id": "project-2",
+      "description": "AI model identifying and blurring faces in a crowd",
+      "imageUrl": "https://images.unsplash.com/photo-1572435555646-7ad9a149ad91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxBSSUyMHNlY3VyaXR5fGVufDB8fHx8MTc3MDU3NjQ5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI security"
+    },
+    {
+      "id": "project-3",
+      "description": "Clean and modern interface of an e-commerce website",
+      "imageUrl": "https://images.unsplash.com/photo-1764194790147-8a1e47a91a3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlY29tbWVyY2UlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzcwNjcxMDgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce interface"
+    },
+    {
+      "id": "project-4",
+      "description": "Medical interface showing blood donor information",
+      "imageUrl": "https://images.unsplash.com/photo-1659353887211-1a3aa8426aa5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtZWRpY2FsJTIwYXBwfGVufDB8fHx8MTc3MDY3MTA4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical app"
+    },
+    {
+      "id": "project-5",
+      "description": "AI model tracking human movement in a video feed",
+      "imageUrl": "https://images.unsplash.com/photo-1677756119517-756a188d2d94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxodW1hbiUyMG1vdmVtZW50JTIwdHJhY2tpbmclMjBBSXxlbnwwfHx8fDE3NzA2NzM1MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI tracking"
+    }
+  ]
+}
